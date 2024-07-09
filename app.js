@@ -1,3 +1,4 @@
+console.log("Password checker")
 const textBox = document.getElementById("textbox");
 const hide = document.getElementById("hide");
 const bars = document.getElementsByClassName("border");
