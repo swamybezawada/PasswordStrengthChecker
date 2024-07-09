@@ -1,4 +1,4 @@
-console.log("Password checker")
+console.log("Password checker updated!!")
 const textBox = document.getElementById("textbox");
 const hide = document.getElementById("hide");
 const bars = document.getElementsByClassName("border");
